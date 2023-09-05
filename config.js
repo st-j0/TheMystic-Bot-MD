@@ -8,7 +8,7 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
+  ['50955256170', '👑 st-j👑', true],
   ['50499698072', '💫 Mystic - Collaborator 1 💫', true],
   ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
@@ -36,7 +36,7 @@ global.suittag = ['5219993404349'];
 global.prems = ['51995386439'];
 
 global.packname = '(☞ﾟ∀ﾟ)☞';
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
+global.author = '★st-j★';
 global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★';
 global.titulowm = '🤖 ＴＨＥ ＭＹＳＴＩＣ － ＢＯＴ 🤖';
 global.titulowm2 = `乂  𝚃 𝙷 𝙴  𝙼 𝚈 𝚂 𝚃 𝙸 𝙲  -  𝙱 𝙾 𝚃  乂`
